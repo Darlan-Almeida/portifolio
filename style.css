@@ -336,15 +336,16 @@ section .title::after{
 .skills .skills-content .right .js::before{
     width: 60%;
 }
+.skills .skills-content .right .html::before{
+    width: 50%;
+}
 .skills .skills-content .right .java::before{
     width: 47%;
 }
 .skills .skills-content .right .php::before{
     width: 42%;
 }
-.skills .skills-content .right .html::before{
-    width: 50%;
-}
+
 /*  sessão curso  */
 #cursos{
     color: #500085;
