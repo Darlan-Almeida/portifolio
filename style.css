@@ -331,7 +331,7 @@ section .title::after{
     width: 84%;
 }
 .skills .skills-content .right .mysql::before{
-    width: 70%;
+    width: 75%;
 }
 .skills .skills-content .right .js::before{
     width: 60%;
@@ -343,7 +343,7 @@ section .title::after{
     width: 42%;
 }
 .skills .skills-content .right .html::before{
-    width: 40%;
+    width: 50%;
 }
 /*  sessão curso  */
 #cursos{
